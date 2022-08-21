@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1657474906 source:c:\users\tejaswini\documents\st lab\fsmini\admin.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<ostream>
+	<ctime>
+	<bits/stdc++.h>
+	<cstring>
+	<conio.h>
+	<limits>
+	"dirent.h"
+	"meeting.cpp"
+
+1657475120 source:c:\users\tejaswini\documents\st lab\fsmini\developer.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<ctime>
+	<bits/stdc++.h>
+	"dirent.h"
+	"meetings.cpp"
+
+1657472662 source:c:\users\tejaswini\documents\st lab\fsmini\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<stdio.h>
+	<unistd.h>
+	<conio.h>
+	<stdlib.h>
+	"admin.cpp"
+	"developer.cpp"
+
+1657474906 c:\users\tejaswini\documents\st lab\fsmini\admin.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<ostream>
+	<ctime>
+	<bits/stdc++.h>
+	<cstring>
+	<conio.h>
+	<limits>
+	"dirent.h"
+	"meeting.cpp"
+
+1657475120 c:\users\tejaswini\documents\st lab\fsmini\developer.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<ctime>
+	<bits/stdc++.h>
+	"dirent.h"
+	"meetings.cpp"
+
+1656337810 c:\users\tejaswini\documents\st lab\fsmini\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	"admin.cpp"
+	"developer.cpp"
+
+1656391867 c:\users\tejaswini\documents\st lab\fsmini\global.h
+
+1656393593 c:\users\tejaswini\documents\st lab\fsmini\name.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"admin.cpp"
+	"developer.cpp"
+
+1656393593 source:c:\users\tejaswini\documents\st lab\fsmini\name.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"admin.cpp"
+	"developer.cpp"
+
+1656597743 c:\users\tejaswini\documents\st lab\fsmini\codes.cpp
+	<iostream>
+	<fstream>
+
+1656597743 source:c:\users\tejaswini\documents\st lab\fsmini\codes.cpp
+	<iostream>
+	<fstream>
+
+1656719773 c:\users\tejaswini\documents\st lab\fsmini\login.cpp
+
+1656719773 source:c:\users\tejaswini\documents\st lab\fsmini\login.cpp
+
+1657250683 c:\users\tejaswini\documents\st lab\fsmini\dirent.h
+	<windows.h>
+	<stdio.h>
+	<stdarg.h>
+	<wchar.h>
+	<string.h>
+	<stdlib.h>
+	<malloc.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<errno.h>
+	<ctype.h>
+
+1657255556 c:\users\tejaswini\documents\st lab\fsmini\project.h
+
+1657272071 c:\users\tejaswini\documents\st lab\fsmini\meeting.cpp
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"project.h"
+
+1657272071 source:c:\users\tejaswini\documents\st lab\fsmini\meeting.cpp
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"project.h"
+
+1657271838 c:\users\tejaswini\documents\st lab\fsmini\meetings.cpp
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"project.h"
+
+1657271838 source:c:\users\tejaswini\documents\st lab\fsmini\meetings.cpp
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"project.h"
+
